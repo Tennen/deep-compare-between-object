@@ -1,5 +1,5 @@
 # deep-compare-between-object
-this is a module which could make a deep compare between object 
+this is a module which could make a deep comparation between object 
 
 >if you want to run unit testing, you should
 
