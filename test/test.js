@@ -2,7 +2,7 @@ import {compare} from '../lib/compare';
 import {assert} from 'chai';
 import {testSamples as samples} from './testsamples';
 
-describe('compare',function(){
+describe('compare',()=> {
 
 	it('it should return true when objectA matches object', ()=> {
 		assert.equal(true, compare(samples.object,samples.objectA))
