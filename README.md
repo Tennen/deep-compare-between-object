@@ -1,5 +1,6 @@
 # deep-compare-between-object
-this is a module which could make a deep comparation between object 
+`lib/compare.js` is a module which could make a deep comparation between object 
+*for es6 support, use compiler such as babel*
 
 >if you want to run unit testing, you should
 
@@ -7,7 +8,7 @@ this is a module which could make a deep comparation between object
 
 <pre><code>$ npm install</code></pre>
 
-2. change test samples in `test/testSamples.js`
+2. set test samples in `test/testSamples.js` and `test/test.js`
 
 3. run `npm test`
 <pre><code>$ npm test </code></pre>
