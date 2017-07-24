@@ -56,7 +56,6 @@ const arrayB = [{
 
 const arrayC = {
 	0 : {
-		id: 1,
 		name: 'test',
 	}
 }

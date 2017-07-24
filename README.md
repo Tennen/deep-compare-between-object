@@ -1,5 +1,6 @@
 # deep-compare-between-object
-`lib/compare.js` is a module which could make a deep comparation between object 
+`lib/compare.js` is a module which could make a deep comparison between object 
+
 *for es6 support, use compiler such as babel*
 
 >if you want to run unit testing, you should
