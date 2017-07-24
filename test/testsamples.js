@@ -3,7 +3,11 @@ const object = {
 	name: 'test',
 	product: {
 		id: 1,
-		name: 'product'
+		name: 'product',
+		product: {
+			id: 1,
+			name: 'test'
+		}
 	},
 	updatedAt: 'now'
 };
@@ -11,14 +15,20 @@ const object = {
 const objectA = {
 	name: 'test',
 	product: {
-		name: 'product'
+		name: 'product',
+		product: {
+			id: 1
+		}
 	},
 };
 
 const objectB = {
 	name: 'test',
 	product: {
-		name: 'anotherProduct'
+		name: 'product',
+		product: {
+			name: 'another'
+		}
 	}
 };
 
